@@ -1,0 +1,10 @@
+C:\Users\gfeli\source\repos\Projeto triangulo\Projeto triangulo\obj\Debug\Projeto triangulo.csprojAssemblyReference.cache
+C:\Users\gfeli\source\repos\Projeto triangulo\Projeto triangulo\obj\Debug\Projeto_triangulo.Form1.resources
+C:\Users\gfeli\source\repos\Projeto triangulo\Projeto triangulo\obj\Debug\Projeto_triangulo.Properties.Resources.resources
+C:\Users\gfeli\source\repos\Projeto triangulo\Projeto triangulo\obj\Debug\Projeto triangulo.csproj.GenerateResource.cache
+C:\Users\gfeli\source\repos\Projeto triangulo\Projeto triangulo\obj\Debug\Projeto triangulo.csproj.CoreCompileInputs.cache
+C:\Users\gfeli\source\repos\Projeto triangulo\Projeto triangulo\bin\Debug\Projeto triangulo.exe.config
+C:\Users\gfeli\source\repos\Projeto triangulo\Projeto triangulo\bin\Debug\Projeto triangulo.exe
+C:\Users\gfeli\source\repos\Projeto triangulo\Projeto triangulo\bin\Debug\Projeto triangulo.pdb
+C:\Users\gfeli\source\repos\Projeto triangulo\Projeto triangulo\obj\Debug\Projeto triangulo.exe
+C:\Users\gfeli\source\repos\Projeto triangulo\Projeto triangulo\obj\Debug\Projeto triangulo.pdb

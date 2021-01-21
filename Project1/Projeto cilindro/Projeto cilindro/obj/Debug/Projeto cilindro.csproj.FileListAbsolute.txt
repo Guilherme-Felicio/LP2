@@ -1,0 +1,9 @@
+c:\users\0030481923010\documents\visual studio 2013\Projects\Projeto cilindro\Projeto cilindro\bin\Debug\Projeto cilindro.exe.config
+c:\users\0030481923010\documents\visual studio 2013\Projects\Projeto cilindro\Projeto cilindro\obj\Debug\Projeto cilindro.csprojResolveAssemblyReference.cache
+c:\users\0030481923010\documents\visual studio 2013\Projects\Projeto cilindro\Projeto cilindro\obj\Debug\Projeto_cilindro.Form1.resources
+c:\users\0030481923010\documents\visual studio 2013\Projects\Projeto cilindro\Projeto cilindro\obj\Debug\Projeto_cilindro.Properties.Resources.resources
+c:\users\0030481923010\documents\visual studio 2013\Projects\Projeto cilindro\Projeto cilindro\obj\Debug\Projeto cilindro.csproj.GenerateResource.Cache
+c:\users\0030481923010\documents\visual studio 2013\Projects\Projeto cilindro\Projeto cilindro\bin\Debug\Projeto cilindro.exe
+c:\users\0030481923010\documents\visual studio 2013\Projects\Projeto cilindro\Projeto cilindro\bin\Debug\Projeto cilindro.pdb
+c:\users\0030481923010\documents\visual studio 2013\Projects\Projeto cilindro\Projeto cilindro\obj\Debug\Projeto cilindro.exe
+c:\users\0030481923010\documents\visual studio 2013\Projects\Projeto cilindro\Projeto cilindro\obj\Debug\Projeto cilindro.pdb

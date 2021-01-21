@@ -1,0 +1,9 @@
+c:\users\windows\documents\visual studio 2013\Projects\ProjetoPeso0.1\ProjetoPeso0.1\bin\Debug\ProjetoPeso0.1.exe.config
+c:\users\windows\documents\visual studio 2013\Projects\ProjetoPeso0.1\ProjetoPeso0.1\bin\Debug\ProjetoPeso0.1.exe
+c:\users\windows\documents\visual studio 2013\Projects\ProjetoPeso0.1\ProjetoPeso0.1\bin\Debug\ProjetoPeso0.1.pdb
+c:\users\windows\documents\visual studio 2013\Projects\ProjetoPeso0.1\ProjetoPeso0.1\obj\Debug\ProjetoPeso0.1.csprojResolveAssemblyReference.cache
+c:\users\windows\documents\visual studio 2013\Projects\ProjetoPeso0.1\ProjetoPeso0.1\obj\Debug\ProjetoPeso0._1.Form1.resources
+c:\users\windows\documents\visual studio 2013\Projects\ProjetoPeso0.1\ProjetoPeso0.1\obj\Debug\ProjetoPeso0._1.Properties.Resources.resources
+c:\users\windows\documents\visual studio 2013\Projects\ProjetoPeso0.1\ProjetoPeso0.1\obj\Debug\ProjetoPeso0.1.csproj.GenerateResource.Cache
+c:\users\windows\documents\visual studio 2013\Projects\ProjetoPeso0.1\ProjetoPeso0.1\obj\Debug\ProjetoPeso0.1.exe
+c:\users\windows\documents\visual studio 2013\Projects\ProjetoPeso0.1\ProjetoPeso0.1\obj\Debug\ProjetoPeso0.1.pdb

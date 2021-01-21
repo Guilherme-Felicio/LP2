@@ -1,0 +1,11 @@
+C:\Users\gfeli\source\repos\Atividade5\Atividade5\bin\Debug\Atividade5.exe.config
+C:\Users\gfeli\source\repos\Atividade5\Atividade5\bin\Debug\Atividade5.exe
+C:\Users\gfeli\source\repos\Atividade5\Atividade5\bin\Debug\Atividade5.pdb
+C:\Users\gfeli\source\repos\Atividade5\Atividade5\obj\Debug\Atividade5.csprojAssemblyReference.cache
+C:\Users\gfeli\source\repos\Atividade5\Atividade5\obj\Debug\Atividade5.frmPrincipal.resources
+C:\Users\gfeli\source\repos\Atividade5\Atividade5\obj\Debug\Atividade5.Properties.Resources.resources
+C:\Users\gfeli\source\repos\Atividade5\Atividade5\obj\Debug\Atividade5.csproj.GenerateResource.cache
+C:\Users\gfeli\source\repos\Atividade5\Atividade5\obj\Debug\Atividade5.csproj.CoreCompileInputs.cache
+C:\Users\gfeli\source\repos\Atividade5\Atividade5\obj\Debug\Atividade5.exe
+C:\Users\gfeli\source\repos\Atividade5\Atividade5\obj\Debug\Atividade5.pdb
+C:\Users\gfeli\source\repos\Atividade5\Atividade5\obj\Debug\Atividade5.frmExercicio2.resources
