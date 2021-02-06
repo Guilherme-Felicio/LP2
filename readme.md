@@ -5,7 +5,7 @@
 <h2>
    ℹ️Sobre
 </h2>
-    Os projetos desse repositório foram realizados durante o 2° semestre da Fatec Sorocaba. 
+    Os projetos desse repositório foram realizados durante o 2° semestre da Fatec Sorocaba. Não possuo autorização para divulgar o enunciado de cada exercício, mas tentarei conseguir e disponibilizar os enunciados mais tarde.
 
 <h3>⚠️Pré-requisitos</h3>
 
@@ -27,7 +27,7 @@
     ✅Como executar o programa
 </h2>
 <ul> 
-    <li>Para deixar simplificar a execução do programa, deixei um arquivo em cada pasta de projeto chamado "executar-programa", basta apenas abri-lo.</li>
+    <li>Para simplificar a execução do programa, deixei um arquivo na pasta de cada projeto chamado "executar-programa", basta apenas abri-lo e pronto.</li>
 </ul>
 
 
