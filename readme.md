@@ -5,7 +5,7 @@
 <h2>
    ℹ️Sobre
 </h2>
-    Os projetos desse repositório foram realizados durante o 2° semestre da Fatec Sorocaba. Não possuo autorização para divulgar o enunciado de cada exercício, mas tentarei conseguir e disponibilizar os enunciados mais tarde.
+    Os projetos desse repositório foram realizados durante o 2° semestre do curso de Ánalise e Desenvolvimento de Sistemas da Fatec Sorocaba. Não possuo autorização para divulgar o enunciado de cada exercício, mas tentarei conseguir e disponibilizar os enunciados mais tarde.
 
 <h2>🚧Status do sistema</h2>
 🔒 Finalizado
@@ -13,7 +13,7 @@
 <h2>⚠️Pré-requisitos</h2>
 
 <ul> 
-    <li>Não há nenhum pré requisito para executar o programa. Porém para edita-lo é necessário a instalação do visual studio.</li>
+    <li>Não há nenhum pré-requisito para executar o programa. Porém para edita-lo é necessário a instalação do visual studio.</li>
 </ul>
 
 
